@@ -28,4 +28,4 @@ Use the starter code in the file `demographic_data_anaylizer`. Update the code s
 
 Unit tests are written for you under `test_module.py`.
 
-ALL COMPLETED WORK ARE IN 'demographic_data_anaylizer.ipynb'
+## ALL COMPLETED WORK ARE IN 'demographic_data_anaylizer.ipynb'
